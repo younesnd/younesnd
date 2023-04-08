@@ -3,7 +3,7 @@
 
 
 ## About Me 
-Hey, I’m Gianluca Jahn. I'm from Tunisia and I'm a self-taught developer. I usually work with React and TypeScript in Next.js . 
+Hey, I’m Younes Nidhal. I'm from Tunisia and I'm a self-taught developer. I usually work with React and TypeScript in Next.js . 
 
 ## My Tech Stack
 
