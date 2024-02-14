@@ -3,7 +3,7 @@
 
 
 ## About Me 
-Hey, I’m Younes Nidhal. I'm from Tunisia and I'm a self-taught developer. I usually work with React and TypeScript in Next.js . 
+Hey, I’m ben Younes Nidhal. I'm from Tunisia and I'm a self-taught developer. I typically work with React and TypeScript within the Next.js framework . 
 
 ## My Tech Stack
 
