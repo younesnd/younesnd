@@ -2,8 +2,7 @@
 
 
 
-## About Me 
-Hello, I'm Ben Younes Nidhal, a self-taught developer hailing from the vibrant country of Tunisia. My expertise lies in working with cutting-edge technologies, and I'm particularly adept at harnessing the power of React and TypeScript within the robust Next.js framework. Passionate about crafting seamless web experiences, I thrive on the challenges of modern web development and am dedicated to staying at the forefront of the ever-evolving tech landscape. 
+
 
 ## My Tech Stack
 
